@@ -1,7 +1,17 @@
-V1.0.7
-777db8203ad719122c39f0bd2f8696f9
+V1.0.8
+66e1413cd0bc4578bc11068e589c4ba6
 /*--------
-Name:	V1.0.71.bin
-Date:	03/07/2025
-Size:	513 KB (525,664 bytes)
---------*/
+Name:	V1.0.8.bin
+Date:	04/07/2025
+Size:	513 KB (525,744 bytes)
+--------
+MD5:	66e1413cd0bc4578bc11068e589c4ba6
+  ===============================
+  📌 BẬT/TẮT MÁY TÍNH QUA INTERNET BẰNG ESP8266
+  ===============================
+  🔧 Chức năng chính:
+  - Điều khiển bật/tắt máy tính từ xa bằng app Blynk
+  - Tự động kết nối WiFi hoặc phát WiFi cấu hình nếu mất mạng
+  - Cập nhật chương trình (firmware) từ xa qua internet (OTA)
+  - Hiển thị trạng thái máy tính (bật hay tắt) trên app
+*/
